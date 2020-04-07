@@ -86,7 +86,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-karben.de
+    url: http://gruene-karben.de/
 ---
 city: Bad Vilbel
 country: DE
