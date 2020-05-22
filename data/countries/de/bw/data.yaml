@@ -18,6 +18,8 @@ urls:
     url: https://www.instagram.com/gruenebw/
   - type: WIKIDATA
     url: https://www.wikidata.org/wiki/Q1020834
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GrueneBW
 emails:
   - address: landesverband@gruene-bw.de
 ---
@@ -74,7 +76,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bc.de/
+    url: https://www.gruene-biberach.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Die.Gruenen.KV.Biberach
 ---
@@ -117,7 +119,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-freudenstadt.de/
+    url: https://gruene-freudenstadt.de/
 ---
 country: DE
 district: Heidelberg
@@ -145,7 +147,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-heidenheim.de/
+    url: https://gruene-heidenheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneHDH
   - type: INSTAGRAM
@@ -162,7 +164,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hohenlohe.de
+    url: https://gruene-hohenlohe.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenehohenlohe
 ---
@@ -220,7 +222,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-ravensburg.de/
+    url: https://www.gruene-rv.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneRavensburg
   - type: INSTAGRAM
@@ -235,7 +237,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-rottweil.de/
+    url: https://www.gruene-rottweil.de/
 ---
 country: DE
 district: Schwäbisch Gmünd
@@ -259,7 +261,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-sha.de/
+    url: https://gruene-sha.de/home/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene_schwaebischhall/
   - type: FACEBOOK
@@ -302,7 +304,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-stuttgart.de/
+    url: https://gruene-stuttgart.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneStgt
   - type: TWITTER
@@ -349,6 +351,6 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-zollernalb.de
+    url: https://www.gruene-zollernalb.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenezak
