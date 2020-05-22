@@ -74,7 +74,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-moers.de/home/?no_cache=1
+    url: https://www.gruene-moers.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.moers/
 ---
